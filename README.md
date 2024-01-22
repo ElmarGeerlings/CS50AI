@@ -31,7 +31,7 @@ $ python generate.py data/structure1.txt data/words1.txt output.png
 ```
 
 ## Degrees
-A program that determines how many “degrees of separation” apart two actors are, per the below.
+A program that determines how many “degrees of separation” apart two actors are.
 
 ```
 $ python degrees.py large
