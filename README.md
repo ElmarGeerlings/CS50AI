@@ -140,6 +140,19 @@ Noun Phrase Chunks
 holmes
 ```
 
+## Questions
+An AI to answer questions.
+
+```
+$ python questions.py corpus
+Query: What are the types of supervised learning?
+Types of supervised learning algorithms include Active learning , classification and regression.
+
+$ python questions.py corpus
+Query: When was Python 3.0 released?
+Python 3.0 was released on 3 December 2008.
+```
+
 ## Shopping
 An AI to predict whether online shopping customers will complete a purchase.
 
