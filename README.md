@@ -1,5 +1,5 @@
 # CS50AI
-Exercises that I did for CS50x: Harvard University’s Introduction to Artificial Intelligence with Python.
+Exercises that I did for CS50AI: Harvard University’s Introduction to Artificial Intelligence with Python.
 
 https://cs50.harvard.edu/ai
 
